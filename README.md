@@ -79,5 +79,6 @@ Results are saved to a CSV file with every question, both answers, and the outco
 ## Files
 
 - `sycophancy-eval.py`: the eval script
+- `sycophancy-eval.py(1)`: earlier version with a one word Haiku grader which gave 6.4 %; kept for comparison 
 - `questions.csv`: the 50 questions and correct answers
 - `results-*.csv`: results from each run
